@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/MLL8eclCgL/0", true))()
-loadstring(game:HttpGet("https://get.nathub.xyz/loader"))();
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/NoLag-id/No-Lag-HUB/refs/heads/main/Loader/LoaderV1.lua"))()
